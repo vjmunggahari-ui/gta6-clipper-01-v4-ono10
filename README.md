@@ -24,7 +24,7 @@ the biggest payoff first, then a four-vehicle escape arc.
 - File: `out/clip.mp4` — 1080x1920, 18.0 s, H.264 + AAC.
 - Source: the official GTA VI Trailer 2, re-cut with ffmpeg (center crop to
   9:16, on-screen hook, make.fun end card).
-- Watch it: https://www.youtube.com/shorts/PLACEHOLDER
+- Watch it: https://www.youtube.com/shorts/vBYT-_i2D9w
 
 ## The program
 
