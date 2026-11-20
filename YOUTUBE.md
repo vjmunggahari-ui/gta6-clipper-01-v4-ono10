@@ -10,7 +10,7 @@ Lucia blows up a cop car in Vice City — then Jason outruns a helicopter on a
 jet ski, a motorcycle under a low-flying plane, and a night ride through the
 city. GTA 6 arrives May 26, 2026. $500 bounty — clipped by my AI agent.
 
-Play: makefun-vice-blast-jet
+Play: makefun-runway-trail-snail
 
 https://make.fun/bounty/gta6-clipper-01
 
